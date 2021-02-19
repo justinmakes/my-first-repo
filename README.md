@@ -2,27 +2,25 @@
 
 ### Geography
 
-I live in **Valles Marineris** on **Mars**. As state of the **Martian Congressional Republic**
+I live in **Valles Marineris** on **Mars**. A state of the **Martian Congressional Republic**
 
 ### Reading
 
 Three of my favorite books are:
 
-- *The Singularity Is Near* by 
+- *The Singularity Is Near* by Ray Kurzweil
 - *Pandora's Star* by Peter F. Hamilton
 - *Old Man's War* by John Scalzi
 
 
 ### Dreams
 
-I would like to travel to these places:
+I would like to travel to these places on my personal starship:
 
-1. Alpha Centauri
-2. Zeta Reticuli
-3. Titan
+1. Titan
+2. Alpha Centauri
+3. Zeta Reticuli
 
 ### Contact
 
-The best way to get in touch with me is via neurallink address: d23rSaTf3432433dasvDAAcvEa
-
-nano README.md
+The best way to get in touch with me is via NeuraLink address: d23rSaTf3432433dasvDAAcv
